@@ -4,11 +4,11 @@ This is the official repository of the NeurIPS 2025 paper entitled: [Scalable, E
 
 # Updates
 
+2025.11.11: The majority of the code is ready.
+
 2025.10.22: We finished the camera-ready version and uploaded it on [ArXiv](https://arxiv.org/abs/2510.18328)
 
 2025.10.16: We are cleaning the code and will upload it soon.
-
-2025.11.11: The majority of the code is ready.
 
 ## Instructions on reproducing the main results
 ### Setup Instructions
