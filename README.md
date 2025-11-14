@@ -2,7 +2,7 @@
 This is the official repository of the NeurIPS 2025 paper entitled: [Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching](https://neurips.cc/virtual/2025/poster/116486)
 
 <p align="center">
-<img src="TCCM_Example.pdf" width="1200">
+<img src="TCCM_Example.png" width="1200">
 </p>
 
 # Updates
