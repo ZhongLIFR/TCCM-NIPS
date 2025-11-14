@@ -1,0 +1,10 @@
+matplotlib==3.9.4
+numpy==1.26.4
+pandas==2.2.3
+scikit_learn==1.6.1
+scipy==1.13.1
+seaborn==0.13.2
+torch==1.13.1
+tqdm==4.67.1
+pyod==2.0.3
+combo==0.1.3
